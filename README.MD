@@ -16,8 +16,11 @@ pip install requests pyyaml
 
 ## Configuration
 Create a YAML configuration file following the schema provided in the exercise description. Place this file in a known directory.
+The configuration file provided in the repository is named sample.yaml as provided in prompt of the assessment file. 
 
 ## Usage
 Run the script from the command line:
 python main.py /path/to/config.yaml
+
+Note: If powershell is opened from the same location where the .py file and config file exist, you can directly run the script python main.py sample.yaml (without specifying the path to the file)
 
