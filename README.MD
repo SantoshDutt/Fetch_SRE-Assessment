@@ -16,7 +16,7 @@ pip install requests pyyaml
 
 ## Configuration
 Create a YAML configuration file following the schema provided in the exercise description. Place this file in a known directory.
-The configuration file provided in the repository is named sample.yaml as provided in prompt of the assessment file. 
+The configuration file provided in the repository is named sample.yaml as shown in prompt of the assessment file. 
 
 ## Usage
 Run the script from the command line:
